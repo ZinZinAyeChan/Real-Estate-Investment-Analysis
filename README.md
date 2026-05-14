@@ -45,6 +45,9 @@ Median sales prices declined between 2017 and 2021, suggesting shifts in housing
   ├── Disadvantages     # Evidence against Ryde as an investment (pre-2018 data)
   ├── Recommendation    # Overall investment recommendation (max 50 words)
   └── Reflection        # Review using 2021 data
+data/
+  └── 640103.xlsx       # Raw NSW median housing prices — Metropolitan LGAs (Mar 1991 – Mar 2017)
+  └── Finalise.xlsx     # Working dataset — CPI-adjusted, cleaned and ready for analysis
 ```
 
 ---
